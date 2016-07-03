@@ -2,6 +2,7 @@
 /*!
     @file     PN532.h
     @author   Adafruit Industries & Seeed Studio
+    @author   Speed, Mifare backdoor and more by Colin J. Brigato
     @license  BSD
 */
 /**************************************************************************/

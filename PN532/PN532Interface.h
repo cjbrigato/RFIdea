@@ -1,4 +1,5 @@
 
+//    @author   Speed, Mifare backdoor and more by Colin J. Brigato
 
 #ifndef __PN532_INTERFACE_H__
 #define __PN532_INTERFACE_H__

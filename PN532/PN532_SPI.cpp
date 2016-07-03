@@ -1,3 +1,4 @@
+//    @author   Speed, Mifare backdoor and more by Colin J. Brigato
 
 #include "PN532_SPI.h"
 #include "PN532_debug.h"
