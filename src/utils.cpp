@@ -1,3 +1,4 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
 #include "utils.h"
 
 void RefreshLCD(LCD_DISCO_F469NI *lcd)

@@ -1,3 +1,5 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
+
 #include "mbed.h"
 
 static I2C_HandleTypeDef heval_I2c1;

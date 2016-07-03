@@ -1,3 +1,5 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
+
 #include "mbed.h"
 #include <string>
 #include <stdio.h>

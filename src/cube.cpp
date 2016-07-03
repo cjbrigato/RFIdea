@@ -1,3 +1,5 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
+
 #include "cube.h"
 
 extern TS_StateTypeDef TS_State;

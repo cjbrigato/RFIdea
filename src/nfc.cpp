@@ -1,3 +1,4 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
 #include "mbed.h"
 #include "LCD_DISCO_F469NI.h"
 #include "PN532.h"

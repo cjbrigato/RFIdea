@@ -1,3 +1,5 @@
+//     @author    Colin J. Brigato < colin@brigato.fr>
+
 #include "mbed.h"
 #include "nfc.h"
 
